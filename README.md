@@ -19,6 +19,6 @@
 Create an Engie themed static page with an observable graph (maybe more than one?) embeded.
 
 ### References
-https://pages.github.com/
-https://github.com/demetrie/lama
-https://observablehq.com/@observablehq/introduction-to-embedding
+- https://pages.github.com/
+- https://github.com/demetrie/lama
+- https://observablehq.com/@observablehq/introduction-to-embedding
